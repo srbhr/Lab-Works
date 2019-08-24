@@ -1,9 +1,12 @@
 # Lab Works
 
 ### Laboratory File Works for :-
-- Digital Communication
-- Algorithm Design & Developement
-- Java Programming
-- Software Engineering
+## Digital Communication
 
-5th Semester, CSE -5A
+ ### Lab 1 -- 5th August 2019
+ - Aim :- To plot some basic signals (Continous and Discrete)
+ 
+ ### Lab 2 -- 19th August 2019
+ - Aim :- To perform sampling of a given signal and plot it's waveform using SciLab
+
+
