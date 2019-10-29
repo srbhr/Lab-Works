@@ -3,3 +3,5 @@
 # Removing the C executables and Object files
 *.exe
 *.obj
+.vscode
+
