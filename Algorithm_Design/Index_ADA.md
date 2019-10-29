@@ -1,7 +1,40 @@
 # Index
 
 ### Lab 1
-Aim :- To implement linear search and binary search and analyse it's time complexity
+Linear search and Binary search
 
 ### Lab 2
-Aim :- To implement Selection Sort and Insertion Sort in an array and analyse it's time complexity
+a) Selection Sort and Insertion Sort 
+
+b) Quick Sort and Merge Sort
+
+###  Lab 3
+
+Longest Common Substring
+
+### Lab 4
+
+Matrix Chain Multiplication
+
+### Lab 5
+
+Optimal Binary Search Tree
+
+### Lab 6
+
+Huffman Coding
+
+### Lab 7
+
+Naïve String Matching
+
+### Lab 8
+
+Bellman Ford
+
+Single Source
+
+
+
+
+
